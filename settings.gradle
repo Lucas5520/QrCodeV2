@@ -1,0 +1,2 @@
+rootProject.name = "QrCodeV2"
+include ':app'
